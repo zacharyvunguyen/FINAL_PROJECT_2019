@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1131b42c-d1f6-40c7-bf6e-51834cc76ca5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Final_version/.~ABSENTEEISM_VISUALIZATIONS_Story__36832.twbr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_version/ABSENTEEISM_VISUALIZATIONS.twb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_version/ABSENTEEISM_VISUALIZATIONS_Story.twbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_version/Presentation/ANALYZING REASONS VS PROBABILITY (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_version/Presentation/ANALYZING REASONS VS PROBABILITY_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_version/Presentation/Final_Project.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_version/Presentation/reason 1 &amp; 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/~$senteesim_Feature_Descriptions.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Absenteesim_Feature_Descriptions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Absenteesim_Feature_Descriptions.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_version/.ipynb_checkpoints/Absenteeism - Preprocessing-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_version/.ipynb_checkpoints/Absenteeism - Preprocessing-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_version/Absenteeism - Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_version/Absenteeism - Preprocessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_version/absenteeism_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_version/absenteeism_module.py" afterDir="false" />
-    </list>
+    <list default="true" id="1131b42c-d1f6-40c7-bf6e-51834cc76ca5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573668370325</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding presentation part 1">
+      <created>1573719343149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573719343149</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +94,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Adding Final_version" />
     <MESSAGE value=" Final_version - Make some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Final_version - Make some changes" />
+    <MESSAGE value="Adding presentation part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding presentation part 1" />
   </component>
 </project>
