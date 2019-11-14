@@ -55,7 +55,7 @@ class absenteeism_model():
             # to preserve the code we've created in the previous section, we will add a column with 'NaN' strings
             df['Absenteeism Time in Hours'] = 'NaN'
 
-            # create a separate dataframe, containing dummy values for ALL avaiable reasons
+            # create a separate dataframe, containing dummy values for ALL available reasons
             reason_columns = pd.get_dummies(df['Reason for Absence'], drop_first = True)
             
             # split reason_columns into 4 types

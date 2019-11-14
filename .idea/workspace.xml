@@ -2,21 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1131b42c-d1f6-40c7-bf6e-51834cc76ca5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Final_version/.ipynb_checkpoints/Absenteeism - Deploying the 'absenteeism_module'-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_version/.ipynb_checkpoints/Absenteeism - Logistic Regression-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_version/.ipynb_checkpoints/Absenteeism - Preprocessing-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_version/Absenteeism - Deploying the 'absenteeism_module'.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_version/Absenteeism - Logistic Regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final_version/Absenteeism - Preprocessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_version/.~ABSENTEEISM_VISUALIZATIONS_Story__36832.twbr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_version/ABSENTEEISM_VISUALIZATIONS.twb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_version/ABSENTEEISM_VISUALIZATIONS_Story.twbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_version/Presentation/ANALYZING REASONS VS PROBABILITY (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_version/Presentation/ANALYZING REASONS VS PROBABILITY_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_version/Presentation/Final_Project.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_version/Presentation/reason 1 &amp; 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$senteesim_Feature_Descriptions.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_version/.ipynb_checkpoints/Absenteeism Exercise - Logistic Regression_with_comments-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_version/.ipynb_checkpoints/Absenteeism Exercise - Preprocessing-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_version/Absenteeism Exercise - Deploying the 'absenteeism_module'.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_version/Absenteeism Exercise - Logistic Regression_with_comments.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_version/Absenteeism Exercise - Preprocessing.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_version/Absenteeism-preprocessed.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Final_version/Absenteeism-preprocessed.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_version/df-preprocessed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Absenteesim_Feature_Descriptions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Absenteesim_Feature_Descriptions.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_version/.ipynb_checkpoints/Absenteeism - Preprocessing-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_version/.ipynb_checkpoints/Absenteeism - Preprocessing-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_version/Absenteeism - Preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_version/Absenteeism - Preprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_version/absenteeism_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_version/absenteeism_module.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +71,14 @@
       <workItem from="1573663055490" duration="333000" />
       <workItem from="1573667996769" duration="3000" />
     </task>
+    <task id="LOCAL-00001" summary=" Final_version - Make some changes">
+      <created>1573668370325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573668370325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Adding Final_version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Final_version" />
+    <MESSAGE value=" Final_version - Make some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Final_version - Make some changes" />
   </component>
 </project>
